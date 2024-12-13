@@ -1,136 +1,45 @@
 {
-  "RegisteredDetails": [
+  "RegisteredDetails": [],
+  "DonatedDetails": [
     {
-      "name": "th",
-      "age": "30",
-      "bloodGroup": "A+",
-      "location": "kollm",
-      "contact": "1234567890",
+      "name": "Aswin G Nair",
+      "age": "23",
+      "gender": "Male",
+      "bloodGroup": "A-",
+      "contact": "2345445678",
+      "donationDate": "2024-12-03",
+      "location": "Alappuzha",
       "id": 1
     },
     {
-      "name": "thasny",
-      "age": "30",
+      "name": "sds",
+      "age": "54",
+      "gender": "Male",
       "bloodGroup": "AB+",
-      "location": "malapuram",
-      "contact": "1234567890",
+      "contact": "2345445678",
+      "donationDate": "2024-12-04",
+      "location": "dsfgdfs",
       "id": 2
     },
     {
-      "name": "ddd",
-      "age": "23",
-      "bloodGroup": "AB-",
-      "location": "kochi",
-      "contact": "1234567898",
+      "name": "sfdsfsdgd",
+      "age": "45",
+      "gender": "Other",
+      "bloodGroup": "O-",
+      "contact": "3456678790",
+      "donationDate": "2024-12-01",
+      "location": "wesegdfgshty",
       "id": 3
     },
     {
-      "name": "yahss",
-      "age": "34",
+      "name": "Anirudh",
+      "age": "28",
+      "gender": "Male",
       "bloodGroup": "B+",
-      "location": "kochi",
-      "contact": "1234567898",
+      "contact": "9063728364",
+      "donationDate": "2024-12-10",
+      "location": "idukki",
       "id": 4
-    },
-    {
-      "name": "thasma",
-      "age": "56",
-      "bloodGroup": "A+",
-      "location": "kollm",
-      "contact": "3456789121",
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
-      "id": 14
-    },
-    {
-      "name": "thasny",
-      "age": "23",
-      "bloodGroup": "AB-",
-      "location": "kochi",
-      "contact": "1234567890",
-      "id": 15
-    },
-    {
-      "name": "thasny",
-      "age": "30",
-      "bloodGroup": "B-",
-      "location": "malapuram",
-      "contact": "1234567890",
-      "id": 16
-    },
-    {
-      "name": "geethu",
-      "age": "23",
-      "bloodGroup": "A+",
-      "location": "allapuzha",
-      "contact": "1234567898",
-      "id": 17
-    },
-    {
-      "name": "geethu",
-      "age": "23",
-      "bloodGroup": "B+",
-      "location": "allapuzha",
-      "contact": "1234567898",
-      "id": 18
-    },
-    {
-      "name": "krishna",
-      "age": "43",
-      "bloodGroup": "O-",
-      "location": "fortkochi",
-      "contact": "1234567890",
-      "id": 19
-    },
-    {
-      "name": "marry",
-      "age": "56",
-      "bloodGroup": "AB+",
-      "location": "malapuram",
-      "contact": "1234567890",
-      "id": 20
-    },
-    {
-      "name": "sigma",
-      "age": "90",
-      "bloodGroup": "AB+",
-      "location": "allapuzha",
-      "contact": "1234567890",
-      "id": 21
-    },
-    {
-      "name": "vava",
-      "age": "56",
-      "bloodGroup": "B-",
-      "location": "allapuzha",
-      "contact": "1234567890",
-      "id": 22
     }
-  ],
-  "DonatedDetails": []
+  ]
 }
