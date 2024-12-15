@@ -1,45 +1,40 @@
 {
-  "RegisteredDetails": [],
+  "RegisteredDetails": [
+    {
+      "name": "Aswin G Nair",
+      "age": "4",
+      "bloodGroup": "B+",
+      "location": "Alappuzha",
+      "contact": "2433423242",
+      "id": 1
+    },
+    {
+      "name": "Aswin G Nair",
+      "age": "23",
+      "bloodGroup": "A+",
+      "location": "kottayam",
+      "contact": "9063728364",
+      "id": 2
+    },
+    {
+      "name": "Abhijith",
+      "age": "45",
+      "bloodGroup": "O+",
+      "location": "Palakkad",
+      "contact": "9023579034",
+      "id": 3
+    }
+  ],
   "DonatedDetails": [
     {
       "name": "Aswin G Nair",
       "age": "23",
       "gender": "Male",
-      "bloodGroup": "A-",
-      "contact": "2345445678",
+      "bloodGroup": "B+",
+      "contact": "3456678790",
       "donationDate": "2024-12-03",
       "location": "Alappuzha",
       "id": 1
-    },
-    {
-      "name": "sds",
-      "age": "54",
-      "gender": "Male",
-      "bloodGroup": "AB+",
-      "contact": "2345445678",
-      "donationDate": "2024-12-04",
-      "location": "dsfgdfs",
-      "id": 2
-    },
-    {
-      "name": "sfdsfsdgd",
-      "age": "45",
-      "gender": "Other",
-      "bloodGroup": "O-",
-      "contact": "3456678790",
-      "donationDate": "2024-12-01",
-      "location": "wesegdfgshty",
-      "id": 3
-    },
-    {
-      "name": "Anirudh",
-      "age": "28",
-      "gender": "Male",
-      "bloodGroup": "B+",
-      "contact": "9063728364",
-      "donationDate": "2024-12-10",
-      "location": "idukki",
-      "id": 4
     }
   ]
 }
