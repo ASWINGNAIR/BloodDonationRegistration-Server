@@ -15,14 +15,6 @@
       "location": "kottayam",
       "contact": "9063728364",
       "id": 2
-    },
-    {
-      "name": "Abhijith",
-      "age": "45",
-      "bloodGroup": "O+",
-      "location": "Palakkad",
-      "contact": "9023579034",
-      "id": 3
     }
   ],
   "DonatedDetails": [
@@ -35,6 +27,16 @@
       "donationDate": "2024-12-03",
       "location": "Alappuzha",
       "id": 1
+    },
+    {
+      "name": "Anu",
+      "age": "34",
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "contact": "9063728364",
+      "donationDate": "2024-12-16",
+      "location": "idukki",
+      "id": 2
     }
   ]
 }
